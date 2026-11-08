@@ -75,7 +75,7 @@ const erick = {
 
 ---
 
-### 🐍 Histórico de Contribuições
+### 🐍 Snake Game
 
 <div align="center">
   <picture>
