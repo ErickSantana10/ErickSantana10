@@ -1,55 +1,92 @@
-<h2 align="left">
-  Olá! Sou o Erick Santana 👋
-  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="50">
-</h2>
+<div align="center">
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="160" />
+  <!-- Header Banner Dinâmico -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=Erick%20Santana&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=Full%20Stack%20Software%20Developer&subfontSize=18&subfontColor=dbeafe" width="100%" alt="Header Banner"/>
 
-<div align="left">
-  <a href="mailto:ericknsantana@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="32"/>
+  <!-- Efeito de Digitação Animado -->
+  <a href="https://github.com/ErickSantana10">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+seja+bem-vindo(a)!+%F0%9F%91%8B;Desenvolvedor+Software+%2F+Full+Stack+%F0%9F%9A%80;Construindo+solu%C3%A7%C3%B5es+modernas+com+c%C3%B3digo+limpo;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+SQL" alt="Typing SVG" />
   </a>
+
+  <br/><br/>
+
+  <!-- Redes Sociais & Contato -->
   <a href="https://www.linkedin.com/in/erick-santana" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="32"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
+  <a href="mailto:ericknsantana@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ErickSantana10&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+---
+
+### 👨‍💻 Sobre Mim
+
+```javascript
+const erick = {
+  pronouns: "Ele/Dele",
+  role: "Full Stack Developer",
+  code: ["TypeScript", "JavaScript", "React", "Node.js", "SQL"],
+  architecture: ["Clean Code", "REST APIs", "Component Architecture"],
+  currentFocus: "Aplicações web escaláveis e experiências de usuário fluidas",
+  challenge: "Aprender algo novo e resolver um problema complexo todos os dias"
+};
+```
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="left">
+  <b>Frontend:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&perline=7" alt="Frontend Skills" />
+  </a>
+</p>
+
+<p align="left">
+  <b>Backend & Bancos de Dados:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma&perline=7" alt="Backend Skills" />
+  </a>
+</p>
+
+<p align="left">
+  <b>Ferramentas & DevOps:</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&perline=7" alt="Tools Skills" />
+  </a>
+</p>
+
+---
+
+### 📈 Estatísticas & Hábitos de Código
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ErickSantana10&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%" />
 </div>
 
 ---
 
-<h2 align="left">
-  🛠️  Skills & Tecnologias
-</h2>
+### 🐍 Histórico de Contribuições
 
-<img align="right" height="150" src="https://gifdb.com/images/high/android-robot-update-maintenance-46bdzwbktck5vp31.gif"/>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErickSantana10/ErickSantana10/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErickSantana10/ErickSantana10/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/ErickSantana10/ErickSantana10/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
+  </picture>
+</div>
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" alt="React"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/></td>
-  </tr>
-</table>
+<br/>
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" alt="HTML5"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" alt="CSS3"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git"/></td>
-  </tr>
-</table>
-
----
-
-<br clear="both">
-
-<img src="https://user-images.githubusercontent.com/74038190/212897782-96581536-54a0-4b87-87b4-5e55f95e8a8b.gif" width="600">
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErickSantana10/ErickSantana10/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ErickSantana10/ErickSantana10/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/ErickSantana10/ErickSantana10/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</picture>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=100&section=footer" width="100%" alt="Footer Banner"/>
+</div>
